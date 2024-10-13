@@ -1,0 +1,17 @@
+C:\Users\chiefu\source\repos\NoRunZone\bin\Release\net8.0-windows\NoRunZone.exe
+C:\Users\chiefu\source\repos\NoRunZone\bin\Release\net8.0-windows\NoRunZone.deps.json
+C:\Users\chiefu\source\repos\NoRunZone\bin\Release\net8.0-windows\NoRunZone.runtimeconfig.json
+C:\Users\chiefu\source\repos\NoRunZone\bin\Release\net8.0-windows\NoRunZone.dll
+C:\Users\chiefu\source\repos\NoRunZone\bin\Release\net8.0-windows\NoRunZone.pdb
+C:\Users\chiefu\source\repos\NoRunZone\obj\Release\net8.0-windows\NoRunZone.Form1.resources
+C:\Users\chiefu\source\repos\NoRunZone\obj\Release\net8.0-windows\NoRunZone.Properties.Resources.resources
+C:\Users\chiefu\source\repos\NoRunZone\obj\Release\net8.0-windows\NoRunZone.csproj.GenerateResource.cache
+C:\Users\chiefu\source\repos\NoRunZone\obj\Release\net8.0-windows\NoRunZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiefu\source\repos\NoRunZone\obj\Release\net8.0-windows\NoRunZone.AssemblyInfoInputs.cache
+C:\Users\chiefu\source\repos\NoRunZone\obj\Release\net8.0-windows\NoRunZone.AssemblyInfo.cs
+C:\Users\chiefu\source\repos\NoRunZone\obj\Release\net8.0-windows\NoRunZone.csproj.CoreCompileInputs.cache
+C:\Users\chiefu\source\repos\NoRunZone\obj\Release\net8.0-windows\NoRunZone.dll
+C:\Users\chiefu\source\repos\NoRunZone\obj\Release\net8.0-windows\refint\NoRunZone.dll
+C:\Users\chiefu\source\repos\NoRunZone\obj\Release\net8.0-windows\NoRunZone.pdb
+C:\Users\chiefu\source\repos\NoRunZone\obj\Release\net8.0-windows\NoRunZone.genruntimeconfig.cache
+C:\Users\chiefu\source\repos\NoRunZone\obj\Release\net8.0-windows\ref\NoRunZone.dll
