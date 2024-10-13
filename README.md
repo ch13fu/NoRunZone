@@ -15,7 +15,7 @@ NoRunZone is a lightweight Windows tool to control the execution of `.exe` files
 ⚠️ **Run as Administrator:**  
 This application modifies folder permissions. You must run it as an administrator for it to function correctly.
 
-**Warning:** Avoid using this tool on system-critical folders as it may impact the stability of your system. Use at your own risk.
+**Warning:** Avoid using this tool on system-critical folders as it may impact the stability of your system.
 
 ## How to Use
 
